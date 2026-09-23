@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HyperOS Weather</string>
+    <string name="widget_description">Thời tiết thực tế tại vị trí hiện tại</string>
+</resources>
